@@ -1,0 +1,7 @@
+import day1_remove_duplicates
+from day2_Frequency_Counter import day2_frequency_counter
+import day3_statistical_analyzer
+import day4_missing_value_handler
+import day5_feature_scaler
+
+print("All task files imported successfully!")
