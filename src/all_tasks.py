@@ -1,4 +1,5 @@
 import day1_remove_duplicates
+obj1= day1_remove_duplicates
 from day2_Frequency_Counter import day2_frequency_counter
 import day3_statistical_analyzer
 import day4_missing_value_handler
